@@ -79,6 +79,18 @@
 #### Tampilan Toast Notifikasi
 ![Tampilan Toast Notifikasi](https://github.com/harisnurpazri/Pemrograman_Mobile_E-Present/blob/main/gambar%20(7).jpg)
 
+### Tampilan Aplikasi E-Present di Project
+
+#### Tampilan Toast Notifikasi
+
+![Tampilan Toast Notifikasi](https://github.com/harisnurpazri/Pemrograman_Mobile_E-Present/blob/main/Gambar%20Project%20(1).png)
+![Tampilan Toast Notifikasi](https://github.com/harisnurpazri/Pemrograman_Mobile_E-Present/blob/main/Gambar%20Project%20(2).png)
+![Tampilan Toast Notifikasi](https://github.com/harisnurpazri/Pemrograman_Mobile_E-Present/blob/main/Gambar%20Project%20(3).png)
+![Tampilan Toast Notifikasi](https://github.com/harisnurpazri/Pemrograman_Mobile_E-Present/blob/main/Gambar%20Project%20(4).png)
+![Tampilan Toast Notifikasi](https://github.com/harisnurpazri/Pemrograman_Mobile_E-Present/blob/main/Gambar%20Project%20(5).png)
+![Tampilan Toast Notifikasi](https://github.com/harisnurpazri/Pemrograman_Mobile_E-Present/blob/main/Gambar%20Project%20(6).png)
+![Tampilan Toast Notifikasi](https://github.com/harisnurpazri/Pemrograman_Mobile_E-Present/blob/main/Gambar%20Project%20(7).png)
+
 ---
 
 ## TERIMA KASIH 🙏
