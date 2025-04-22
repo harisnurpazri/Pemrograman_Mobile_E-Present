@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background dengan gradient yang segar -->
+    <path android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="108"
+                android:endY="108"
+                android:type="linear">
+                <item android:offset="0" android:color="#FF00BCD4"/>
+                <item android:offset="1" android:color="#FF2979FF"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Pattern dots untuk tambahan estetika -->
+    <path
+        android:pathData="M20,20m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0"
+        android:fillColor="#33FFFFFF"/>
+    <path
+        android:pathData="M90,20m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0"
+        android:fillColor="#33FFFFFF"/>
+    <path
+        android:pathData="M20,90m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0"
+        android:fillColor="#33FFFFFF"/>
+    <path
+        android:pathData="M90,90m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0"
+        android:fillColor="#33FFFFFF"/>
+    <path
+        android:pathData="M55,55m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0"
+        android:fillColor="#33FFFFFF"/>
+</vector>

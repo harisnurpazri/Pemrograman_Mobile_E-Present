@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema aplikasi dasar -->
+    <style name="Theme.EPresent" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Warna merek utama -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Warna merek sekunder -->
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent_light</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Warna status bar -->
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <!-- Warna latar belakang -->
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+
+    <!-- Style untuk input fields -->
+    <style name="CustomInputField" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/primary</item>
+        <item name="hintTextColor">@color/primary</item>
+        <item name="android:textColorHint">@color/text_hint</item>
+        <item name="startIconTint">@color/primary</item>
+        <item name="endIconTint">@color/primary</item>
+    </style>
+
+    <!-- Style untuk tombol -->
+    <style name="CustomButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:padding">12dp</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="backgroundTint">@color/primary</item>
+        <item name="android:letterSpacing">0.05</item>
+    </style>
+
+    <!-- Style untuk judul -->
+    <style name="TitleText">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.02</item>
+    </style>
+</resources>

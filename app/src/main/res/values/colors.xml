@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Warna utama -->
+    <color name="primary">#2979FF</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#82B1FF</color>
+
+    <!-- Warna aksen -->
+    <color name="accent">#FF9100</color>
+    <color name="accent_light">#FFB74D</color>
+
+    <!-- Warna latar belakang -->
+    <color name="background">#F9FBFF</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- Warna teks kontras -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+
+    <!-- Warna gradient -->
+    <color name="gradient_start">#2979FF</color>
+    <color name="gradient_end">#00BCD4</color>
+</resources>
